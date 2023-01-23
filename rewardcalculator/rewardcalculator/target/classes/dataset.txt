@@ -1,0 +1,9 @@
+John,January,120.0
+John,February,80.0
+John,March,150.0
+Joe,January,100.0
+Joe,March,100.0
+Joe,February,100.0
+Jane,January,60.0
+Jane,February,130.0
+Jane,March,110.0
