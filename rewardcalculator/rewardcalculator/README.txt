@@ -4,7 +4,7 @@ SpringBoot Application that demonstrates REST API Development using Java 8 or hi
 
 Features:
 
-This application has three primary REST end-points that calculates reward points for customers based on their transactions.
+This application has four primary REST end-points that calculates reward points for customers based on their transactions.
 
 GET /transactions - eg: http://localhost:8080/transactions
 GET /rewards/{customerName} - eg: http://localhost:8080/rewards/John
